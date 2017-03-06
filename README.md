@@ -11,4 +11,4 @@ Whatever I type will appear on the public site
 
 <p><iframe src="//batchgeo.com/map/6fd7732d8ce62c576f256299cbc1289c" frameborder="0" width="100%" height="550" style="border:1px solid #aaa;"></iframe></p><p><small>View <a href="https://batchgeo.com/map/6fd7732d8ce62c576f256299cbc1289c">BGeo.Maps.Ex.1</a> in a full screen map</small></p>
 
-https://mamisonga.carto.com/builder/3574e71a-0282-11e7-a0d3-0ee66e2c9693/embed
+<iframe width="100%" height="520" frameborder="0" src="https://mamisonga.carto.com/builder/3574e71a-0282-11e7-a0d3-0ee66e2c9693/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
