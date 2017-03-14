@@ -17,3 +17,6 @@ Life of Elisha Hand-out
 <iframe width="100%" height="520" frameborder="0" src="https://mamisonga.carto.com/builder/3574e71a-0282-11e7-a0d3-0ee66e2c9693/embed" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
 
 <iframe width="600" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1x7Lq9KAc5kEAR9vvMokIXosP-54mBKhS2_l5JbPCV38/pubchart?oid=1018688973&amp;format=interactive"></iframe>
+
+
+<iframe width="842.8499755859375" height="371" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/1A-p2UWgFYCUJMSH1aYGxP_jTbOZMyq5vPIUPDFImKZU/pubchart?oid=481125634&amp;format=interactive"></iframe>
